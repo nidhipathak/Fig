@@ -1,4 +1,4 @@
-```gantt
+```mermaid
     title Digital ESG Auditing Framework - Work Packages & Tasks
     dateFormat  YYYY-MM-DD
     axisFormat  %b '%y
