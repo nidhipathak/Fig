@@ -1,4 +1,4 @@
-gantt
+```gantt
     title Digital ESG Auditing Framework - Work Packages & Tasks
     dateFormat  YYYY-MM-DD
     axisFormat  %b '%y
@@ -29,3 +29,4 @@ gantt
     Evaluate robustness                  :d2, 2025-03-01, 305d
     Prototype dashboard                  :d3, 2025-03-01, 305d
     Final Milestone: Validated Framework :milestone, 2025-12-31, 0d
+```
